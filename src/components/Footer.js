@@ -97,7 +97,7 @@ export default function Footer() {
 
                             <li>
                                 <i className="bi bi-envelope me-2"></i>
-                                careers@jobconnect.demo
+                                careers@jobconnect.com
                             </li>
 
                             <li>
