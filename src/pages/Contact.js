@@ -309,7 +309,7 @@ export default function Contact() {
                             <div className="d-flex gap-2">
                                 {socials.map((social) => (
                                     <a
-                                        href="#"
+                                        href="/"
                                         key={social.icon}
                                         className="jc-icon-circle text-decoration-none"
                                         style={{
