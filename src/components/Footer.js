@@ -31,7 +31,7 @@ export default function Footer() {
                         <div className="d-flex gap-2">
                             {socials.map((social) => (
                                 <a
-                                    href="#"
+                                    href="/"
                                     key={social.icon}
                                     className="jc-social"
                                     aria-label={social.label}
