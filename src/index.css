@@ -1,13 +1,313 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import "bootstrap/dist/css/bootstrap.min.css";
+@import "bootstrap-icons/font/bootstrap-icons.css";
+
+/* ============================================================
+   JobConnect — custom theme on top of Bootstrap 5
+   Blue & white professional SaaS look
+   ============================================================ */
+
+:root {
+  --jc-primary: #0b5ed7;
+  --jc-primary-dark: #084298;
+  --jc-navy: #0d1b3e;
+  --jc-light: #f5f8ff;
+  --bs-primary: #0b5ed7;
+  --bs-link-color: #0b5ed7;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Public Sans", "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, Arial, sans-serif;
+  background-color: #f8fafd;
+  color: #212b36;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+.btn-primary {
+  --bs-btn-bg: var(--jc-primary);
+  --bs-btn-border-color: var(--jc-primary);
+  --bs-btn-hover-bg: var(--jc-primary-dark);
+  --bs-btn-hover-border-color: var(--jc-primary-dark);
+  --bs-btn-active-bg: var(--jc-primary-dark);
+  --bs-btn-active-border-color: var(--jc-primary-dark);
+}
+
+.btn-outline-primary {
+  --bs-btn-color: var(--jc-primary);
+  --bs-btn-border-color: var(--jc-primary);
+  --bs-btn-hover-bg: var(--jc-primary);
+  --bs-btn-hover-border-color: var(--jc-primary);
+  --bs-btn-active-bg: var(--jc-primary);
+}
+
+.text-primary {
+  color: var(--jc-primary) !important;
+}
+
+.bg-primary {
+  background-color: var(--jc-primary) !important;
+}
+
+/* ---------- Navbar ---------- */
+.jc-navbar {
+  transition: box-shadow 0.25s ease;
+}
+
+.jc-navbar .nav-link {
+  color: #42526e;
+  transition: color 0.2s ease;
+}
+
+.jc-navbar .nav-link:hover,
+.jc-navbar .nav-link.active {
+  color: var(--jc-primary);
+}
+
+.jc-logo {
+  width: 38px;
+  height: 38px;
+  background: linear-gradient(135deg, var(--jc-primary), #3d8bfd);
+  color: #fff;
+  font-size: 1.05rem;
+}
+
+/* ---------- Hero ---------- */
+.jc-hero {
+  background:
+    radial-gradient(1000px 500px at 85% -10%, rgba(61, 139, 253, 0.35), transparent 60%),
+    radial-gradient(700px 400px at -10% 110%, rgba(11, 94, 215, 0.45), transparent 60%),
+    linear-gradient(135deg, #0d1b3e 0%, #12275c 55%, #0b5ed7 130%);
+  color: #fff;
+}
+
+.jc-hero .display-4 {
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
+
+.jc-hero-highlight {
+  color: #7db8ff;
+}
+
+.jc-search-card {
+  border-radius: 1rem;
+  box-shadow: 0 20px 45px rgba(6, 22, 58, 0.35);
+}
+
+.jc-chip {
+  background: rgba(255, 255, 255, 0.12);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  color: #dbe8ff;
+  transition: background 0.2s ease, transform 0.2s ease;
+}
+
+.jc-chip:hover {
+  background: rgba(255, 255, 255, 0.24);
+  color: #fff;
+  transform: translateY(-1px);
+}
+
+/* ---------- Cards ---------- */
+.jc-card {
+  border: 1px solid #e7edf5;
+  border-radius: 1rem;
+  transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+  background: #fff;
+}
+
+.jc-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 16px 35px rgba(13, 43, 96, 0.12);
+  border-color: #cfe0f7;
+}
+
+.jc-company-logo {
+  width: 52px;
+  height: 52px;
+  border-radius: 0.85rem;
+  color: #fff;
+  font-weight: 700;
+  font-size: 1.05rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.jc-company-logo.lg {
+  width: 72px;
+  height: 72px;
+  font-size: 1.4rem;
+  border-radius: 1rem;
+}
+
+.jc-icon-circle {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: #e8f0fe;
+  color: var(--jc-primary);
+  font-size: 1.4rem;
+}
+
+/* ---------- Category cards ---------- */
+.jc-category-card {
+  cursor: pointer;
+}
+
+.jc-category-card:hover .jc-icon-circle {
+  background: var(--jc-primary);
+  color: #fff;
+}
+
+/* ---------- Badges ---------- */
+.jc-badge {
+  font-weight: 600;
+  font-size: 0.72rem;
+  letter-spacing: 0.02em;
+  padding: 0.4em 0.75em;
+  border-radius: 999px;
+}
+
+.jc-skill-badge {
+  background: #eef4fd;
+  color: #35507a;
+  font-weight: 500;
+  border-radius: 999px;
+  padding: 0.4em 0.9em;
+  font-size: 0.8rem;
+}
+
+/* ---------- Sections ---------- */
+.jc-section-light {
+  background: var(--jc-light);
+}
+
+.jc-stats {
+  background: linear-gradient(135deg, var(--jc-primary), #3d8bfd);
+  color: #fff;
+  border-radius: 1.25rem;
+}
+
+.jc-cta {
+  background: linear-gradient(135deg, #0d1b3e, #123a8c);
+  color: #fff;
+  border-radius: 1.25rem;
+}
+
+/* ---------- Footer ---------- */
+.jc-footer {
+  background: var(--jc-navy);
+  color: #b9c4dc;
+}
+
+.jc-footer a {
+  color: #b9c4dc;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.jc-footer a:hover {
+  color: #fff;
+}
+
+.jc-social {
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(255, 255, 255, 0.08);
+  transition: background 0.2s ease, transform 0.2s ease;
+}
+
+.jc-social:hover {
+  background: var(--jc-primary);
+  transform: translateY(-2px);
+}
+
+/* ---------- Page transition ---------- */
+.jc-page {
+  animation: jcFadeUp 0.35s ease both;
+}
+
+@keyframes jcFadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* ---------- Scroll to top ---------- */
+.jc-scroll-top {
+  position: fixed;
+  right: 1.25rem;
+  bottom: 1.25rem;
+  z-index: 1050;
+  width: 46px;
+  height: 46px;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 10px 25px rgba(11, 94, 215, 0.4);
+  animation: jcFadeUp 0.25s ease both;
+}
+
+/* ---------- Filter sidebar ---------- */
+.jc-filter-card {
+  border: 1px solid #e7edf5;
+  border-radius: 1rem;
+}
+
+.jc-filter-title {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #64748b;
+  font-weight: 700;
+}
+
+/* ---------- Misc ---------- */
+.jc-meta {
+  color: #64748b;
+  font-size: 0.85rem;
+}
+
+.jc-hover-link {
+  color: inherit;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.jc-hover-link:hover {
+  color: var(--jc-primary);
+}
+
+.form-control:focus,
+.form-select:focus {
+  border-color: #9ec3f5;
+  box-shadow: 0 0 0 0.2rem rgba(11, 94, 215, 0.12);
 }

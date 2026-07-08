@@ -1,0 +1,1506 @@
+[
+    {
+        "id": 1,
+        "title": "Senior Frontend Developer",
+        "company": "TechNova Solutions",
+        "companyLogo": "TS",
+        "location": "San Francisco, CA",
+        "salary": "$120,000 - $160,000",
+        "salaryMin": 120000,
+        "salaryMax": 160000,
+        "experience": "5+ years",
+        "experienceLevel": "Senior Level",
+        "jobType": "Full-time",
+        "category": "Software Development",
+        "postedDate": "2026-07-07",
+        "description": "TechNova Solutions is looking for a talented Senior Frontend Developer to join our growing Software Development team in San Francisco, CA. In this role, you will work closely with cross-functional teams to deliver high-quality results, contribute to strategic initiatives, and help shape the future of our products and services. This is an excellent opportunity for a senior level professional with 5+ years of experience who is passionate about software development and eager to make an impact.",
+        "responsibilities": [
+            "Own and deliver key projects as a Senior Frontend Developer within the Software Development team",
+            "Collaborate with cross-functional teams including product, design, and engineering",
+            "Apply expertise in React and TypeScript to solve complex problems",
+            "Participate in planning, reviews, and continuous improvement processes",
+            "Mentor peers and share knowledge across the organization",
+            "Communicate progress and results clearly to stakeholders"
+        ],
+        "requirements": [
+            "5+ years of professional experience in a similar role",
+            "Strong proficiency in React, TypeScript, Redux",
+            "Excellent problem-solving and communication skills",
+            "Bachelor's degree in a relevant field or equivalent practical experience",
+            "Ability to work effectively in a fast-paced, collaborative environment"
+        ],
+        "skills": [
+            "React",
+            "TypeScript",
+            "Redux",
+            "CSS",
+            "Jest"
+        ],
+        "benefits": [
+            "Competitive salary and performance bonuses",
+            "Comprehensive health, dental, and vision insurance",
+            "Flexible working hours and remote-friendly culture",
+            "401(k) with company match",
+            "Generous paid time off and parental leave",
+            "Annual learning and development budget"
+        ],
+        "companyOverview": "TechNova Solutions is a fast-growing company in the software development space, trusted by hundreds of clients worldwide. We believe in innovation, collaboration, and empowering our people to do the best work of their careers. Our teams are diverse, driven, and passionate about building products and services that make a real difference."
+    },
+    {
+        "id": 2,
+        "title": "Backend Engineer (Node.js)",
+        "company": "CloudSphere Inc.",
+        "companyLogo": "CI",
+        "location": "Austin, TX",
+        "salary": "$110,000 - $145,000",
+        "salaryMin": 110000,
+        "salaryMax": 145000,
+        "experience": "3-5 years",
+        "experienceLevel": "Mid Level",
+        "jobType": "Full-time",
+        "category": "Software Development",
+        "postedDate": "2026-07-06",
+        "description": "CloudSphere Inc. is looking for a talented Backend Engineer (Node.js) to join our growing Software Development team in Austin, TX. In this role, you will work closely with cross-functional teams to deliver high-quality results, contribute to strategic initiatives, and help shape the future of our products and services. This is an excellent opportunity for a mid level professional with 3-5 years of experience who is passionate about software development and eager to make an impact.",
+        "responsibilities": [
+            "Own and deliver key projects as a Backend Engineer (Node.js) within the Software Development team",
+            "Collaborate with cross-functional teams including product, design, and engineering",
+            "Apply expertise in Node.js and Express to solve complex problems",
+            "Participate in planning, reviews, and continuous improvement processes",
+            "Mentor peers and share knowledge across the organization",
+            "Communicate progress and results clearly to stakeholders"
+        ],
+        "requirements": [
+            "3-5 years of professional experience in a similar role",
+            "Strong proficiency in Node.js, Express, PostgreSQL",
+            "Excellent problem-solving and communication skills",
+            "Bachelor's degree in a relevant field or equivalent practical experience",
+            "Ability to work effectively in a fast-paced, collaborative environment"
+        ],
+        "skills": [
+            "Node.js",
+            "Express",
+            "PostgreSQL",
+            "AWS",
+            "Docker"
+        ],
+        "benefits": [
+            "Competitive salary and performance bonuses",
+            "Comprehensive health, dental, and vision insurance",
+            "Flexible working hours and remote-friendly culture",
+            "401(k) with company match",
+            "Generous paid time off and parental leave",
+            "Annual learning and development budget"
+        ],
+        "companyOverview": "CloudSphere Inc. is a fast-growing company in the software development space, trusted by hundreds of clients worldwide. We believe in innovation, collaboration, and empowering our people to do the best work of their careers. Our teams are diverse, driven, and passionate about building products and services that make a real difference."
+    },
+    {
+        "id": 3,
+        "title": "UI/UX Designer",
+        "company": "PixelCraft Studio",
+        "companyLogo": "PS",
+        "location": "New York, NY",
+        "salary": "$85,000 - $115,000",
+        "salaryMin": 85000,
+        "salaryMax": 115000,
+        "experience": "3-5 years",
+        "experienceLevel": "Mid Level",
+        "jobType": "Full-time",
+        "category": "Design",
+        "postedDate": "2026-07-05",
+        "description": "PixelCraft Studio is looking for a talented UI/UX Designer to join our growing Design team in New York, NY. In this role, you will work closely with cross-functional teams to deliver high-quality results, contribute to strategic initiatives, and help shape the future of our products and services. This is an excellent opportunity for a mid level professional with 3-5 years of experience who is passionate about design and eager to make an impact.",
+        "responsibilities": [
+            "Own and deliver key projects as a UI/UX Designer within the Design team",
+            "Collaborate with cross-functional teams including product, design, and engineering",
+            "Apply expertise in Figma and Adobe XD to solve complex problems",
+            "Participate in planning, reviews, and continuous improvement processes",
+            "Mentor peers and share knowledge across the organization",
+            "Communicate progress and results clearly to stakeholders"
+        ],
+        "requirements": [
+            "3-5 years of professional experience in a similar role",
+            "Strong proficiency in Figma, Adobe XD, Prototyping",
+            "Excellent problem-solving and communication skills",
+            "Bachelor's degree in a relevant field or equivalent practical experience",
+            "Ability to work effectively in a fast-paced, collaborative environment"
+        ],
+        "skills": [
+            "Figma",
+            "Adobe XD",
+            "Prototyping",
+            "User Research",
+            "Design Systems"
+        ],
+        "benefits": [
+            "Competitive salary and performance bonuses",
+            "Comprehensive health, dental, and vision insurance",
+            "Flexible working hours and remote-friendly culture",
+            "401(k) with company match",
+            "Generous paid time off and parental leave",
+            "Annual learning and development budget"
+        ],
+        "companyOverview": "PixelCraft Studio is a fast-growing company in the design space, trusted by hundreds of clients worldwide. We believe in innovation, collaboration, and empowering our people to do the best work of their careers. Our teams are diverse, driven, and passionate about building products and services that make a real difference."
+    },
+    {
+        "id": 4,
+        "title": "Data Scientist",
+        "company": "InsightIQ Analytics",
+        "companyLogo": "IA",
+        "location": "Boston, MA",
+        "salary": "$125,000 - $165,000",
+        "salaryMin": 125000,
+        "salaryMax": 165000,
+        "experience": "5+ years",
+        "experienceLevel": "Senior Level",
+        "jobType": "Full-time",
+        "category": "Data Science",
+        "postedDate": "2026-07-06",
+        "description": "InsightIQ Analytics is looking for a talented Data Scientist to join our growing Data Science team in Boston, MA. In this role, you will work closely with cross-functional teams to deliver high-quality results, contribute to strategic initiatives, and help shape the future of our products and services. This is an excellent opportunity for a senior level professional with 5+ years of experience who is passionate about data science and eager to make an impact.",
+        "responsibilities": [
+            "Own and deliver key projects as a Data Scientist within the Data Science team",
+            "Collaborate with cross-functional teams including product, design, and engineering",
+            "Apply expertise in Python and Machine Learning to solve complex problems",
+            "Participate in planning, reviews, and continuous improvement processes",
+            "Mentor peers and share knowledge across the organization",
+            "Communicate progress and results clearly to stakeholders"
+        ],
+        "requirements": [
+            "5+ years of professional experience in a similar role",
+            "Strong proficiency in Python, Machine Learning, SQL",
+            "Excellent problem-solving and communication skills",
+            "Bachelor's degree in a relevant field or equivalent practical experience",
+            "Ability to work effectively in a fast-paced, collaborative environment"
+        ],
+        "skills": [
+            "Python",
+            "Machine Learning",
+            "SQL",
+            "TensorFlow",
+            "Statistics"
+        ],
+        "benefits": [
+            "Competitive salary and performance bonuses",
+            "Comprehensive health, dental, and vision insurance",
+            "Flexible working hours and remote-friendly culture",
+            "401(k) with company match",
+            "Generous paid time off and parental leave",
+            "Annual learning and development budget"
+        ],
+        "companyOverview": "InsightIQ Analytics is a fast-growing company in the data science space, trusted by hundreds of clients worldwide. We believe in innovation, collaboration, and empowering our people to do the best work of their careers. Our teams are diverse, driven, and passionate about building products and services that make a real difference."
+    },
+    {
+        "id": 5,
+        "title": "Digital Marketing Manager",
+        "company": "BrandBoost Media",
+        "companyLogo": "BM",
+        "location": "Chicago, IL",
+        "salary": "$75,000 - $95,000",
+        "salaryMin": 75000,
+        "salaryMax": 95000,
+        "experience": "3-5 years",
+        "experienceLevel": "Mid Level",
+        "jobType": "Full-time",
+        "category": "Marketing",
+        "postedDate": "2026-07-04",
+        "description": "BrandBoost Media is looking for a talented Digital Marketing Manager to join our growing Marketing team in Chicago, IL. In this role, you will work closely with cross-functional teams to deliver high-quality results, contribute to strategic initiatives, and help shape the future of our products and services. This is an excellent opportunity for a mid level professional with 3-5 years of experience who is passionate about marketing and eager to make an impact.",
+        "responsibilities": [
+            "Own and deliver key projects as a Digital Marketing Manager within the Marketing team",
+            "Collaborate with cross-functional teams including product, design, and engineering",
+            "Apply expertise in SEO and Google Ads to solve complex problems",
+            "Participate in planning, reviews, and continuous improvement processes",
+            "Mentor peers and share knowledge across the organization",
+            "Communicate progress and results clearly to stakeholders"
+        ],
+        "requirements": [
+            "3-5 years of professional experience in a similar role",
+            "Strong proficiency in SEO, Google Ads, Content Strategy",
+            "Excellent problem-solving and communication skills",
+            "Bachelor's degree in a relevant field or equivalent practical experience",
+            "Ability to work effectively in a fast-paced, collaborative environment"
+        ],
+        "skills": [
+            "SEO",
+            "Google Ads",
+            "Content Strategy",
+            "Analytics",
+            "Email Marketing"
+        ],
+        "benefits": [
+            "Competitive salary and performance bonuses",
+            "Comprehensive health, dental, and vision insurance",
+            "Flexible working hours and remote-friendly culture",
+            "401(k) with company match",
+            "Generous paid time off and parental leave",
+            "Annual learning and development budget"
+        ],
+        "companyOverview": "BrandBoost Media is a fast-growing company in the marketing space, trusted by hundreds of clients worldwide. We believe in innovation, collaboration, and empowering our people to do the best work of their careers. Our teams are diverse, driven, and passionate about building products and services that make a real difference."
+    },
+    {
+        "id": 6,
+        "title": "DevOps Engineer",
+        "company": "InfraCore Systems",
+        "companyLogo": "IS",
+        "location": "Seattle, WA",
+        "salary": "$130,000 - $170,000",
+        "salaryMin": 130000,
+        "salaryMax": 170000,
+        "experience": "5+ years",
+        "experienceLevel": "Senior Level",
+        "jobType": "Full-time",
+        "category": "DevOps",
+        "postedDate": "2026-07-07",
+        "description": "InfraCore Systems is looking for a talented DevOps Engineer to join our growing DevOps team in Seattle, WA. In this role, you will work closely with cross-functional teams to deliver high-quality results, contribute to strategic initiatives, and help shape the future of our products and services. This is an excellent opportunity for a senior level professional with 5+ years of experience who is passionate about devops and eager to make an impact.",
+        "responsibilities": [
+            "Own and deliver key projects as a DevOps Engineer within the DevOps team",
+            "Collaborate with cross-functional teams including product, design, and engineering",
+            "Apply expertise in Kubernetes and Terraform to solve complex problems",
+            "Participate in planning, reviews, and continuous improvement processes",
+            "Mentor peers and share knowledge across the organization",
+            "Communicate progress and results clearly to stakeholders"
+        ],
+        "requirements": [
+            "5+ years of professional experience in a similar role",
+            "Strong proficiency in Kubernetes, Terraform, AWS",
+            "Excellent problem-solving and communication skills",
+            "Bachelor's degree in a relevant field or equivalent practical experience",
+            "Ability to work effectively in a fast-paced, collaborative environment"
+        ],
+        "skills": [
+            "Kubernetes",
+            "Terraform",
+            "AWS",
+            "CI/CD",
+            "Linux"
+        ],
+        "benefits": [
+            "Competitive salary and performance bonuses",
+            "Comprehensive health, dental, and vision insurance",
+            "Flexible working hours and remote-friendly culture",
+            "401(k) with company match",
+            "Generous paid time off and parental leave",
+            "Annual learning and development budget"
+        ],
+        "companyOverview": "InfraCore Systems is a fast-growing company in the devops space, trusted by hundreds of clients worldwide. We believe in innovation, collaboration, and empowering our people to do the best work of their careers. Our teams are diverse, driven, and passionate about building products and services that make a real difference."
+    },
+    {
+        "id": 7,
+        "title": "Product Manager",
+        "company": "LaunchPad Labs",
+        "companyLogo": "LL",
+        "location": "Remote",
+        "salary": "$115,000 - $150,000",
+        "salaryMin": 115000,
+        "salaryMax": 150000,
+        "experience": "5+ years",
+        "experienceLevel": "Senior Level",
+        "jobType": "Remote",
+        "category": "Product Management",
+        "postedDate": "2026-07-03",
+        "description": "LaunchPad Labs is looking for a talented Product Manager to join our growing Product Management team in Remote. In this role, you will work closely with cross-functional teams to deliver high-quality results, contribute to strategic initiatives, and help shape the future of our products and services. This is an excellent opportunity for a senior level professional with 5+ years of experience who is passionate about product management and eager to make an impact.",
+        "responsibilities": [
+            "Own and deliver key projects as a Product Manager within the Product Management team",
+            "Collaborate with cross-functional teams including product, design, and engineering",
+            "Apply expertise in Roadmapping and Agile to solve complex problems",
+            "Participate in planning, reviews, and continuous improvement processes",
+            "Mentor peers and share knowledge across the organization",
+            "Communicate progress and results clearly to stakeholders"
+        ],
+        "requirements": [
+            "5+ years of professional experience in a similar role",
+            "Strong proficiency in Roadmapping, Agile, User Stories",
+            "Excellent problem-solving and communication skills",
+            "Bachelor's degree in a relevant field or equivalent practical experience",
+            "Ability to work effectively in a fast-paced, collaborative environment"
+        ],
+        "skills": [
+            "Roadmapping",
+            "Agile",
+            "User Stories",
+            "Analytics",
+            "Stakeholder Management"
+        ],
+        "benefits": [
+            "Competitive salary and performance bonuses",
+            "Comprehensive health, dental, and vision insurance",
+            "Flexible working hours and remote-friendly culture",
+            "401(k) with company match",
+            "Generous paid time off and parental leave",
+            "Annual learning and development budget"
+        ],
+        "companyOverview": "LaunchPad Labs is a fast-growing company in the product management space, trusted by hundreds of clients worldwide. We believe in innovation, collaboration, and empowering our people to do the best work of their careers. Our teams are diverse, driven, and passionate about building products and services that make a real difference."
+    },
+    {
+        "id": 8,
+        "title": "Junior React Developer",
+        "company": "StartUpHub",
+        "companyLogo": "S",
+        "location": "Denver, CO",
+        "salary": "$65,000 - $85,000",
+        "salaryMin": 65000,
+        "salaryMax": 85000,
+        "experience": "0-2 years",
+        "experienceLevel": "Entry Level",
+        "jobType": "Full-time",
+        "category": "Software Development",
+        "postedDate": "2026-07-06",
+        "description": "StartUpHub is looking for a talented Junior React Developer to join our growing Software Development team in Denver, CO. In this role, you will work closely with cross-functional teams to deliver high-quality results, contribute to strategic initiatives, and help shape the future of our products and services. This is an excellent opportunity for a entry level professional with 0-2 years of experience who is passionate about software development and eager to make an impact.",
+        "responsibilities": [
+            "Own and deliver key projects as a Junior React Developer within the Software Development team",
+            "Collaborate with cross-functional teams including product, design, and engineering",
+            "Apply expertise in React and JavaScript to solve complex problems",
+            "Participate in planning, reviews, and continuous improvement processes",
+            "Mentor peers and share knowledge across the organization",
+            "Communicate progress and results clearly to stakeholders"
+        ],
+        "requirements": [
+            "0-2 years of professional experience in a similar role",
+            "Strong proficiency in React, JavaScript, HTML",
+            "Excellent problem-solving and communication skills",
+            "Bachelor's degree in a relevant field or equivalent practical experience",
+            "Ability to work effectively in a fast-paced, collaborative environment"
+        ],
+        "skills": [
+            "React",
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "Git"
+        ],
+        "benefits": [
+            "Competitive salary and performance bonuses",
+            "Comprehensive health, dental, and vision insurance",
+            "Flexible working hours and remote-friendly culture",
+            "401(k) with company match",
+            "Generous paid time off and parental leave",
+            "Annual learning and development budget"
+        ],
+        "companyOverview": "StartUpHub is a fast-growing company in the software development space, trusted by hundreds of clients worldwide. We believe in innovation, collaboration, and empowering our people to do the best work of their careers. Our teams are diverse, driven, and passionate about building products and services that make a real difference."
+    },
+    {
+        "id": 9,
+        "title": "Financial Analyst",
+        "company": "Sterling Capital Group",
+        "companyLogo": "SC",
+        "location": "New York, NY",
+        "salary": "$80,000 - $105,000",
+        "salaryMin": 80000,
+        "salaryMax": 105000,
+        "experience": "2-4 years",
+        "experienceLevel": "Mid Level",
+        "jobType": "Full-time",
+        "category": "Finance",
+        "postedDate": "2026-07-02",
+        "description": "Sterling Capital Group is looking for a talented Financial Analyst to join our growing Finance team in New York, NY. In this role, you will work closely with cross-functional teams to deliver high-quality results, contribute to strategic initiatives, and help shape the future of our products and services. This is an excellent opportunity for a mid level professional with 2-4 years of experience who is passionate about finance and eager to make an impact.",
+        "responsibilities": [
+            "Own and deliver key projects as a Financial Analyst within the Finance team",
+            "Collaborate with cross-functional teams including product, design, and engineering",
+            "Apply expertise in Excel and Financial Modeling to solve complex problems",
+            "Participate in planning, reviews, and continuous improvement processes",
+            "Mentor peers and share knowledge across the organization",
+            "Communicate progress and results clearly to stakeholders"
+        ],
+        "requirements": [
+            "2-4 years of professional experience in a similar role",
+            "Strong proficiency in Excel, Financial Modeling, SQL",
+            "Excellent problem-solving and communication skills",
+            "Bachelor's degree in a relevant field or equivalent practical experience",
+            "Ability to work effectively in a fast-paced, collaborative environment"
+        ],
+        "skills": [
+            "Excel",
+            "Financial Modeling",
+            "SQL",
+            "Forecasting",
+            "PowerBI"
+        ],
+        "benefits": [
+            "Competitive salary and performance bonuses",
+            "Comprehensive health, dental, and vision insurance",
+            "Flexible working hours and remote-friendly culture",
+            "401(k) with company match",
+            "Generous paid time off and parental leave",
+            "Annual learning and development budget"
+        ],
+        "companyOverview": "Sterling Capital Group is a fast-growing company in the finance space, trusted by hundreds of clients worldwide. We believe in innovation, collaboration, and empowering our people to do the best work of their careers. Our teams are diverse, driven, and passionate about building products and services that make a real difference."
+    },
+    {
+        "id": 10,
+        "title": "Customer Success Specialist",
+        "company": "HelpDesk Pro",
+        "companyLogo": "HP",
+        "location": "Remote",
+        "salary": "$50,000 - $65,000",
+        "salaryMin": 50000,
+        "salaryMax": 65000,
+        "experience": "0-2 years",
+        "experienceLevel": "Entry Level",
+        "jobType": "Remote",
+        "category": "Customer Support",
+        "postedDate": "2026-07-05",
+        "description": "HelpDesk Pro is looking for a talented Customer Success Specialist to join our growing Customer Support team in Remote. In this role, you will work closely with cross-functional teams to deliver high-quality results, contribute to strategic initiatives, and help shape the future of our products and services. This is an excellent opportunity for a entry level professional with 0-2 years of experience who is passionate about customer support and eager to make an impact.",
+        "responsibilities": [
+            "Own and deliver key projects as a Customer Success Specialist within the Customer Support team",
+            "Collaborate with cross-functional teams including product, design, and engineering",
+            "Apply expertise in Zendesk and Communication to solve complex problems",
+            "Participate in planning, reviews, and continuous improvement processes",
+            "Mentor peers and share knowledge across the organization",
+            "Communicate progress and results clearly to stakeholders"
+        ],
+        "requirements": [
+            "0-2 years of professional experience in a similar role",
+            "Strong proficiency in Zendesk, Communication, CRM",
+            "Excellent problem-solving and communication skills",
+            "Bachelor's degree in a relevant field or equivalent practical experience",
+            "Ability to work effectively in a fast-paced, collaborative environment"
+        ],
+        "skills": [
+            "Zendesk",
+            "Communication",
+            "CRM",
+            "Problem Solving",
+            "Empathy"
+        ],
+        "benefits": [
+            "Competitive salary and performance bonuses",
+            "Comprehensive health, dental, and vision insurance",
+            "Flexible working hours and remote-friendly culture",
+            "401(k) with company match",
+            "Generous paid time off and parental leave",
+            "Annual learning and development budget"
+        ],
+        "companyOverview": "HelpDesk Pro is a fast-growing company in the customer support space, trusted by hundreds of clients worldwide. We believe in innovation, collaboration, and empowering our people to do the best work of their careers. Our teams are diverse, driven, and passionate about building products and services that make a real difference."
+    },
+    {
+        "id": 11,
+        "title": "Full Stack Developer",
+        "company": "CodeWave Technologies",
+        "companyLogo": "CT",
+        "location": "Portland, OR",
+        "salary": "$100,000 - $135,000",
+        "salaryMin": 100000,
+        "salaryMax": 135000,
+        "experience": "3-5 years",
+        "experienceLevel": "Mid Level",
+        "jobType": "Full-time",
+        "category": "Software Development",
+        "postedDate": "2026-07-04",
+        "description": "CodeWave Technologies is looking for a talented Full Stack Developer to join our growing Software Development team in Portland, OR. In this role, you will work closely with cross-functional teams to deliver high-quality results, contribute to strategic initiatives, and help shape the future of our products and services. This is an excellent opportunity for a mid level professional with 3-5 years of experience who is passionate about software development and eager to make an impact.",
+        "responsibilities": [
+            "Own and deliver key projects as a Full Stack Developer within the Software Development team",
+            "Collaborate with cross-functional teams including product, design, and engineering",
+            "Apply expertise in React and Node.js to solve complex problems",
+            "Participate in planning, reviews, and continuous improvement processes",
+            "Mentor peers and share knowledge across the organization",
+            "Communicate progress and results clearly to stakeholders"
+        ],
+        "requirements": [
+            "3-5 years of professional experience in a similar role",
+            "Strong proficiency in React, Node.js, MongoDB",
+            "Excellent problem-solving and communication skills",
+            "Bachelor's degree in a relevant field or equivalent practical experience",
+            "Ability to work effectively in a fast-paced, collaborative environment"
+        ],
+        "skills": [
+            "React",
+            "Node.js",
+            "MongoDB",
+            "GraphQL",
+            "TypeScript"
+        ],
+        "benefits": [
+            "Competitive salary and performance bonuses",
+            "Comprehensive health, dental, and vision insurance",
+            "Flexible working hours and remote-friendly culture",
+            "401(k) with company match",
+            "Generous paid time off and parental leave",
+            "Annual learning and development budget"
+        ],
+        "companyOverview": "CodeWave Technologies is a fast-growing company in the software development space, trusted by hundreds of clients worldwide. We believe in innovation, collaboration, and empowering our people to do the best work of their careers. Our teams are diverse, driven, and passionate about building products and services that make a real difference."
+    },
+    {
+        "id": 12,
+        "title": "Graphic Designer",
+        "company": "Visionary Creative",
+        "companyLogo": "VC",
+        "location": "Los Angeles, CA",
+        "salary": "$60,000 - $80,000",
+        "salaryMin": 60000,
+        "salaryMax": 80000,
+        "experience": "2-4 years",
+        "experienceLevel": "Mid Level",
+        "jobType": "Full-time",
+        "category": "Design",
+        "postedDate": "2026-07-01",
+        "description": "Visionary Creative is looking for a talented Graphic Designer to join our growing Design team in Los Angeles, CA. In this role, you will work closely with cross-functional teams to deliver high-quality results, contribute to strategic initiatives, and help shape the future of our products and services. This is an excellent opportunity for a mid level professional with 2-4 years of experience who is passionate about design and eager to make an impact.",
+        "responsibilities": [
+            "Own and deliver key projects as a Graphic Designer within the Design team",
+            "Collaborate with cross-functional teams including product, design, and engineering",
+            "Apply expertise in Photoshop and Illustrator to solve complex problems",
+            "Participate in planning, reviews, and continuous improvement processes",
+            "Mentor peers and share knowledge across the organization",
+            "Communicate progress and results clearly to stakeholders"
+        ],
+        "requirements": [
+            "2-4 years of professional experience in a similar role",
+            "Strong proficiency in Photoshop, Illustrator, Branding",
+            "Excellent problem-solving and communication skills",
+            "Bachelor's degree in a relevant field or equivalent practical experience",
+            "Ability to work effectively in a fast-paced, collaborative environment"
+        ],
+        "skills": [
+            "Photoshop",
+            "Illustrator",
+            "Branding",
+            "Typography",
+            "InDesign"
+        ],
+        "benefits": [
+            "Competitive salary and performance bonuses",
+            "Comprehensive health, dental, and vision insurance",
+            "Flexible working hours and remote-friendly culture",
+            "401(k) with company match",
+            "Generous paid time off and parental leave",
+            "Annual learning and development budget"
+        ],
+        "companyOverview": "Visionary Creative is a fast-growing company in the design space, trusted by hundreds of clients worldwide. We believe in innovation, collaboration, and empowering our people to do the best work of their careers. Our teams are diverse, driven, and passionate about building products and services that make a real difference."
+    },
+    {
+        "id": 13,
+        "title": "Sales Development Representative",
+        "company": "GrowthEngine",
+        "companyLogo": "G",
+        "location": "Miami, FL",
+        "salary": "$45,000 - $70,000",
+        "salaryMin": 45000,
+        "salaryMax": 70000,
+        "experience": "0-2 years",
+        "experienceLevel": "Entry Level",
+        "jobType": "Full-time",
+        "category": "Sales",
+        "postedDate": "2026-07-07",
+        "description": "GrowthEngine is looking for a talented Sales Development Representative to join our growing Sales team in Miami, FL. In this role, you will work closely with cross-functional teams to deliver high-quality results, contribute to strategic initiatives, and help shape the future of our products and services. This is an excellent opportunity for a entry level professional with 0-2 years of experience who is passionate about sales and eager to make an impact.",
+        "responsibilities": [
+            "Own and deliver key projects as a Sales Development Representative within the Sales team",
+            "Collaborate with cross-functional teams including product, design, and engineering",
+            "Apply expertise in Cold Calling and Salesforce to solve complex problems",
+            "Participate in planning, reviews, and continuous improvement processes",
+            "Mentor peers and share knowledge across the organization",
+            "Communicate progress and results clearly to stakeholders"
+        ],
+        "requirements": [
+            "0-2 years of professional experience in a similar role",
+            "Strong proficiency in Cold Calling, Salesforce, Prospecting",
+            "Excellent problem-solving and communication skills",
+            "Bachelor's degree in a relevant field or equivalent practical experience",
+            "Ability to work effectively in a fast-paced, collaborative environment"
+        ],
+        "skills": [
+            "Cold Calling",
+            "Salesforce",
+            "Prospecting",
+            "Negotiation",
+            "CRM"
+        ],
+        "benefits": [
+            "Competitive salary and performance bonuses",
+            "Comprehensive health, dental, and vision insurance",
+            "Flexible working hours and remote-friendly culture",
+            "401(k) with company match",
+            "Generous paid time off and parental leave",
+            "Annual learning and development budget"
+        ],
+        "companyOverview": "GrowthEngine is a fast-growing company in the sales space, trusted by hundreds of clients worldwide. We believe in innovation, collaboration, and empowering our people to do the best work of their careers. Our teams are diverse, driven, and passionate about building products and services that make a real difference."
+    },
+    {
+        "id": 14,
+        "title": "Machine Learning Engineer",
+        "company": "NeuralPath AI",
+        "companyLogo": "NA",
+        "location": "San Jose, CA",
+        "salary": "$145,000 - $190,000",
+        "salaryMin": 145000,
+        "salaryMax": 190000,
+        "experience": "5+ years",
+        "experienceLevel": "Senior Level",
+        "jobType": "Full-time",
+        "category": "Data Science",
+        "postedDate": "2026-07-06",
+        "description": "NeuralPath AI is looking for a talented Machine Learning Engineer to join our growing Data Science team in San Jose, CA. In this role, you will work closely with cross-functional teams to deliver high-quality results, contribute to strategic initiatives, and help shape the future of our products and services. This is an excellent opportunity for a senior level professional with 5+ years of experience who is passionate about data science and eager to make an impact.",
+        "responsibilities": [
+            "Own and deliver key projects as a Machine Learning Engineer within the Data Science team",
+            "Collaborate with cross-functional teams including product, design, and engineering",
+            "Apply expertise in Python and PyTorch to solve complex problems",
+            "Participate in planning, reviews, and continuous improvement processes",
+            "Mentor peers and share knowledge across the organization",
+            "Communicate progress and results clearly to stakeholders"
+        ],
+        "requirements": [
+            "5+ years of professional experience in a similar role",
+            "Strong proficiency in Python, PyTorch, MLOps",
+            "Excellent problem-solving and communication skills",
+            "Bachelor's degree in a relevant field or equivalent practical experience",
+            "Ability to work effectively in a fast-paced, collaborative environment"
+        ],
+        "skills": [
+            "Python",
+            "PyTorch",
+            "MLOps",
+            "NLP",
+            "Deep Learning"
+        ],
+        "benefits": [
+            "Competitive salary and performance bonuses",
+            "Comprehensive health, dental, and vision insurance",
+            "Flexible working hours and remote-friendly culture",
+            "401(k) with company match",
+            "Generous paid time off and parental leave",
+            "Annual learning and development budget"
+        ],
+        "companyOverview": "NeuralPath AI is a fast-growing company in the data science space, trusted by hundreds of clients worldwide. We believe in innovation, collaboration, and empowering our people to do the best work of their careers. Our teams are diverse, driven, and passionate about building products and services that make a real difference."
+    },
+    {
+        "id": 15,
+        "title": "HR Business Partner",
+        "company": "PeopleFirst Corp",
+        "companyLogo": "PC",
+        "location": "Atlanta, GA",
+        "salary": "$85,000 - $110,000",
+        "salaryMin": 85000,
+        "salaryMax": 110000,
+        "experience": "5+ years",
+        "experienceLevel": "Senior Level",
+        "jobType": "Full-time",
+        "category": "Human Resources",
+        "postedDate": "2026-06-30",
+        "description": "PeopleFirst Corp is looking for a talented HR Business Partner to join our growing Human Resources team in Atlanta, GA. In this role, you will work closely with cross-functional teams to deliver high-quality results, contribute to strategic initiatives, and help shape the future of our products and services. This is an excellent opportunity for a senior level professional with 5+ years of experience who is passionate about human resources and eager to make an impact.",
+        "responsibilities": [
+            "Own and deliver key projects as a HR Business Partner within the Human Resources team",
+            "Collaborate with cross-functional teams including product, design, and engineering",
+            "Apply expertise in Talent Management and HRIS to solve complex problems",
+            "Participate in planning, reviews, and continuous improvement processes",
+            "Mentor peers and share knowledge across the organization",
+            "Communicate progress and results clearly to stakeholders"
+        ],
+        "requirements": [
+            "5+ years of professional experience in a similar role",
+            "Strong proficiency in Talent Management, HRIS, Employee Relations",
+            "Excellent problem-solving and communication skills",
+            "Bachelor's degree in a relevant field or equivalent practical experience",
+            "Ability to work effectively in a fast-paced, collaborative environment"
+        ],
+        "skills": [
+            "Talent Management",
+            "HRIS",
+            "Employee Relations",
+            "Coaching",
+            "Compliance"
+        ],
+        "benefits": [
+            "Competitive salary and performance bonuses",
+            "Comprehensive health, dental, and vision insurance",
+            "Flexible working hours and remote-friendly culture",
+            "401(k) with company match",
+            "Generous paid time off and parental leave",
+            "Annual learning and development budget"
+        ],
+        "companyOverview": "PeopleFirst Corp is a fast-growing company in the human resources space, trusted by hundreds of clients worldwide. We believe in innovation, collaboration, and empowering our people to do the best work of their careers. Our teams are diverse, driven, and passionate about building products and services that make a real difference."
+    },
+    {
+        "id": 16,
+        "title": "Content Marketing Specialist",
+        "company": "StoryLine Digital",
+        "companyLogo": "SD",
+        "location": "Remote",
+        "salary": "$55,000 - $72,000",
+        "salaryMin": 55000,
+        "salaryMax": 72000,
+        "experience": "2-4 years",
+        "experienceLevel": "Mid Level",
+        "jobType": "Remote",
+        "category": "Marketing",
+        "postedDate": "2026-07-05",
+        "description": "StoryLine Digital is looking for a talented Content Marketing Specialist to join our growing Marketing team in Remote. In this role, you will work closely with cross-functional teams to deliver high-quality results, contribute to strategic initiatives, and help shape the future of our products and services. This is an excellent opportunity for a mid level professional with 2-4 years of experience who is passionate about marketing and eager to make an impact.",
+        "responsibilities": [
+            "Own and deliver key projects as a Content Marketing Specialist within the Marketing team",
+            "Collaborate with cross-functional teams including product, design, and engineering",
+            "Apply expertise in Copywriting and SEO to solve complex problems",
+            "Participate in planning, reviews, and continuous improvement processes",
+            "Mentor peers and share knowledge across the organization",
+            "Communicate progress and results clearly to stakeholders"
+        ],
+        "requirements": [
+            "2-4 years of professional experience in a similar role",
+            "Strong proficiency in Copywriting, SEO, WordPress",
+            "Excellent problem-solving and communication skills",
+            "Bachelor's degree in a relevant field or equivalent practical experience",
+            "Ability to work effectively in a fast-paced, collaborative environment"
+        ],
+        "skills": [
+            "Copywriting",
+            "SEO",
+            "WordPress",
+            "Social Media",
+            "Content Planning"
+        ],
+        "benefits": [
+            "Competitive salary and performance bonuses",
+            "Comprehensive health, dental, and vision insurance",
+            "Flexible working hours and remote-friendly culture",
+            "401(k) with company match",
+            "Generous paid time off and parental leave",
+            "Annual learning and development budget"
+        ],
+        "companyOverview": "StoryLine Digital is a fast-growing company in the marketing space, trusted by hundreds of clients worldwide. We believe in innovation, collaboration, and empowering our people to do the best work of their careers. Our teams are diverse, driven, and passionate about building products and services that make a real difference."
+    },
+    {
+        "id": 17,
+        "title": "iOS Developer",
+        "company": "AppForge Mobile",
+        "companyLogo": "AM",
+        "location": "San Diego, CA",
+        "salary": "$115,000 - $150,000",
+        "salaryMin": 115000,
+        "salaryMax": 150000,
+        "experience": "3-5 years",
+        "experienceLevel": "Mid Level",
+        "jobType": "Full-time",
+        "category": "Software Development",
+        "postedDate": "2026-07-03",
+        "description": "AppForge Mobile is looking for a talented iOS Developer to join our growing Software Development team in San Diego, CA. In this role, you will work closely with cross-functional teams to deliver high-quality results, contribute to strategic initiatives, and help shape the future of our products and services. This is an excellent opportunity for a mid level professional with 3-5 years of experience who is passionate about software development and eager to make an impact.",
+        "responsibilities": [
+            "Own and deliver key projects as a iOS Developer within the Software Development team",
+            "Collaborate with cross-functional teams including product, design, and engineering",
+            "Apply expertise in Swift and SwiftUI to solve complex problems",
+            "Participate in planning, reviews, and continuous improvement processes",
+            "Mentor peers and share knowledge across the organization",
+            "Communicate progress and results clearly to stakeholders"
+        ],
+        "requirements": [
+            "3-5 years of professional experience in a similar role",
+            "Strong proficiency in Swift, SwiftUI, Xcode",
+            "Excellent problem-solving and communication skills",
+            "Bachelor's degree in a relevant field or equivalent practical experience",
+            "Ability to work effectively in a fast-paced, collaborative environment"
+        ],
+        "skills": [
+            "Swift",
+            "SwiftUI",
+            "Xcode",
+            "REST APIs",
+            "Core Data"
+        ],
+        "benefits": [
+            "Competitive salary and performance bonuses",
+            "Comprehensive health, dental, and vision insurance",
+            "Flexible working hours and remote-friendly culture",
+            "401(k) with company match",
+            "Generous paid time off and parental leave",
+            "Annual learning and development budget"
+        ],
+        "companyOverview": "AppForge Mobile is a fast-growing company in the software development space, trusted by hundreds of clients worldwide. We believe in innovation, collaboration, and empowering our people to do the best work of their careers. Our teams are diverse, driven, and passionate about building products and services that make a real difference."
+    },
+    {
+        "id": 18,
+        "title": "Cloud Solutions Architect",
+        "company": "SkyBridge Cloud",
+        "companyLogo": "SC",
+        "location": "Dallas, TX",
+        "salary": "$150,000 - $195,000",
+        "salaryMin": 150000,
+        "salaryMax": 195000,
+        "experience": "7+ years",
+        "experienceLevel": "Senior Level",
+        "jobType": "Full-time",
+        "category": "DevOps",
+        "postedDate": "2026-07-02",
+        "description": "SkyBridge Cloud is looking for a talented Cloud Solutions Architect to join our growing DevOps team in Dallas, TX. In this role, you will work closely with cross-functional teams to deliver high-quality results, contribute to strategic initiatives, and help shape the future of our products and services. This is an excellent opportunity for a senior level professional with 7+ years of experience who is passionate about devops and eager to make an impact.",
+        "responsibilities": [
+            "Own and deliver key projects as a Cloud Solutions Architect within the DevOps team",
+            "Collaborate with cross-functional teams including product, design, and engineering",
+            "Apply expertise in AWS and Azure to solve complex problems",
+            "Participate in planning, reviews, and continuous improvement processes",
+            "Mentor peers and share knowledge across the organization",
+            "Communicate progress and results clearly to stakeholders"
+        ],
+        "requirements": [
+            "7+ years of professional experience in a similar role",
+            "Strong proficiency in AWS, Azure, Microservices",
+            "Excellent problem-solving and communication skills",
+            "Bachelor's degree in a relevant field or equivalent practical experience",
+            "Ability to work effectively in a fast-paced, collaborative environment"
+        ],
+        "skills": [
+            "AWS",
+            "Azure",
+            "Microservices",
+            "Networking",
+            "Security"
+        ],
+        "benefits": [
+            "Competitive salary and performance bonuses",
+            "Comprehensive health, dental, and vision insurance",
+            "Flexible working hours and remote-friendly culture",
+            "401(k) with company match",
+            "Generous paid time off and parental leave",
+            "Annual learning and development budget"
+        ],
+        "companyOverview": "SkyBridge Cloud is a fast-growing company in the devops space, trusted by hundreds of clients worldwide. We believe in innovation, collaboration, and empowering our people to do the best work of their careers. Our teams are diverse, driven, and passionate about building products and services that make a real difference."
+    },
+    {
+        "id": 19,
+        "title": "Business Analyst",
+        "company": "OptimaConsult",
+        "companyLogo": "O",
+        "location": "Charlotte, NC",
+        "salary": "$70,000 - $92,000",
+        "salaryMin": 70000,
+        "salaryMax": 92000,
+        "experience": "2-4 years",
+        "experienceLevel": "Mid Level",
+        "jobType": "Full-time",
+        "category": "Finance",
+        "postedDate": "2026-07-04",
+        "description": "OptimaConsult is looking for a talented Business Analyst to join our growing Finance team in Charlotte, NC. In this role, you will work closely with cross-functional teams to deliver high-quality results, contribute to strategic initiatives, and help shape the future of our products and services. This is an excellent opportunity for a mid level professional with 2-4 years of experience who is passionate about finance and eager to make an impact.",
+        "responsibilities": [
+            "Own and deliver key projects as a Business Analyst within the Finance team",
+            "Collaborate with cross-functional teams including product, design, and engineering",
+            "Apply expertise in Requirements Gathering and SQL to solve complex problems",
+            "Participate in planning, reviews, and continuous improvement processes",
+            "Mentor peers and share knowledge across the organization",
+            "Communicate progress and results clearly to stakeholders"
+        ],
+        "requirements": [
+            "2-4 years of professional experience in a similar role",
+            "Strong proficiency in Requirements Gathering, SQL, Tableau",
+            "Excellent problem-solving and communication skills",
+            "Bachelor's degree in a relevant field or equivalent practical experience",
+            "Ability to work effectively in a fast-paced, collaborative environment"
+        ],
+        "skills": [
+            "Requirements Gathering",
+            "SQL",
+            "Tableau",
+            "Process Mapping",
+            "Agile"
+        ],
+        "benefits": [
+            "Competitive salary and performance bonuses",
+            "Comprehensive health, dental, and vision insurance",
+            "Flexible working hours and remote-friendly culture",
+            "401(k) with company match",
+            "Generous paid time off and parental leave",
+            "Annual learning and development budget"
+        ],
+        "companyOverview": "OptimaConsult is a fast-growing company in the finance space, trusted by hundreds of clients worldwide. We believe in innovation, collaboration, and empowering our people to do the best work of their careers. Our teams are diverse, driven, and passionate about building products and services that make a real difference."
+    },
+    {
+        "id": 20,
+        "title": "Motion Graphics Designer",
+        "company": "FrameFlow Studio",
+        "companyLogo": "FS",
+        "location": "Remote",
+        "salary": "$65,000 - $88,000",
+        "salaryMin": 65000,
+        "salaryMax": 88000,
+        "experience": "3-5 years",
+        "experienceLevel": "Mid Level",
+        "jobType": "Contract",
+        "category": "Design",
+        "postedDate": "2026-06-29",
+        "description": "FrameFlow Studio is looking for a talented Motion Graphics Designer to join our growing Design team in Remote. In this role, you will work closely with cross-functional teams to deliver high-quality results, contribute to strategic initiatives, and help shape the future of our products and services. This is an excellent opportunity for a mid level professional with 3-5 years of experience who is passionate about design and eager to make an impact.",
+        "responsibilities": [
+            "Own and deliver key projects as a Motion Graphics Designer within the Design team",
+            "Collaborate with cross-functional teams including product, design, and engineering",
+            "Apply expertise in After Effects and Cinema 4D to solve complex problems",
+            "Participate in planning, reviews, and continuous improvement processes",
+            "Mentor peers and share knowledge across the organization",
+            "Communicate progress and results clearly to stakeholders"
+        ],
+        "requirements": [
+            "3-5 years of professional experience in a similar role",
+            "Strong proficiency in After Effects, Cinema 4D, Animation",
+            "Excellent problem-solving and communication skills",
+            "Bachelor's degree in a relevant field or equivalent practical experience",
+            "Ability to work effectively in a fast-paced, collaborative environment"
+        ],
+        "skills": [
+            "After Effects",
+            "Cinema 4D",
+            "Animation",
+            "Storyboarding",
+            "Premiere Pro"
+        ],
+        "benefits": [
+            "Competitive salary and performance bonuses",
+            "Comprehensive health, dental, and vision insurance",
+            "Flexible working hours and remote-friendly culture",
+            "401(k) with company match",
+            "Generous paid time off and parental leave",
+            "Annual learning and development budget"
+        ],
+        "companyOverview": "FrameFlow Studio is a fast-growing company in the design space, trusted by hundreds of clients worldwide. We believe in innovation, collaboration, and empowering our people to do the best work of their careers. Our teams are diverse, driven, and passionate about building products and services that make a real difference."
+    },
+    {
+        "id": 21,
+        "title": "QA Automation Engineer",
+        "company": "TestRight Labs",
+        "companyLogo": "TL",
+        "location": "Phoenix, AZ",
+        "salary": "$90,000 - $118,000",
+        "salaryMin": 90000,
+        "salaryMax": 118000,
+        "experience": "3-5 years",
+        "experienceLevel": "Mid Level",
+        "jobType": "Full-time",
+        "category": "Software Development",
+        "postedDate": "2026-07-06",
+        "description": "TestRight Labs is looking for a talented QA Automation Engineer to join our growing Software Development team in Phoenix, AZ. In this role, you will work closely with cross-functional teams to deliver high-quality results, contribute to strategic initiatives, and help shape the future of our products and services. This is an excellent opportunity for a mid level professional with 3-5 years of experience who is passionate about software development and eager to make an impact.",
+        "responsibilities": [
+            "Own and deliver key projects as a QA Automation Engineer within the Software Development team",
+            "Collaborate with cross-functional teams including product, design, and engineering",
+            "Apply expertise in Selenium and Cypress to solve complex problems",
+            "Participate in planning, reviews, and continuous improvement processes",
+            "Mentor peers and share knowledge across the organization",
+            "Communicate progress and results clearly to stakeholders"
+        ],
+        "requirements": [
+            "3-5 years of professional experience in a similar role",
+            "Strong proficiency in Selenium, Cypress, JavaScript",
+            "Excellent problem-solving and communication skills",
+            "Bachelor's degree in a relevant field or equivalent practical experience",
+            "Ability to work effectively in a fast-paced, collaborative environment"
+        ],
+        "skills": [
+            "Selenium",
+            "Cypress",
+            "JavaScript",
+            "API Testing",
+            "CI/CD"
+        ],
+        "benefits": [
+            "Competitive salary and performance bonuses",
+            "Comprehensive health, dental, and vision insurance",
+            "Flexible working hours and remote-friendly culture",
+            "401(k) with company match",
+            "Generous paid time off and parental leave",
+            "Annual learning and development budget"
+        ],
+        "companyOverview": "TestRight Labs is a fast-growing company in the software development space, trusted by hundreds of clients worldwide. We believe in innovation, collaboration, and empowering our people to do the best work of their careers. Our teams are diverse, driven, and passionate about building products and services that make a real difference."
+    },
+    {
+        "id": 22,
+        "title": "Data Engineer",
+        "company": "PipelineWorks",
+        "companyLogo": "P",
+        "location": "Remote",
+        "salary": "$120,000 - $155,000",
+        "salaryMin": 120000,
+        "salaryMax": 155000,
+        "experience": "4-6 years",
+        "experienceLevel": "Senior Level",
+        "jobType": "Remote",
+        "category": "Data Science",
+        "postedDate": "2026-07-07",
+        "description": "PipelineWorks is looking for a talented Data Engineer to join our growing Data Science team in Remote. In this role, you will work closely with cross-functional teams to deliver high-quality results, contribute to strategic initiatives, and help shape the future of our products and services. This is an excellent opportunity for a senior level professional with 4-6 years of experience who is passionate about data science and eager to make an impact.",
+        "responsibilities": [
+            "Own and deliver key projects as a Data Engineer within the Data Science team",
+            "Collaborate with cross-functional teams including product, design, and engineering",
+            "Apply expertise in Spark and Airflow to solve complex problems",
+            "Participate in planning, reviews, and continuous improvement processes",
+            "Mentor peers and share knowledge across the organization",
+            "Communicate progress and results clearly to stakeholders"
+        ],
+        "requirements": [
+            "4-6 years of professional experience in a similar role",
+            "Strong proficiency in Spark, Airflow, Python",
+            "Excellent problem-solving and communication skills",
+            "Bachelor's degree in a relevant field or equivalent practical experience",
+            "Ability to work effectively in a fast-paced, collaborative environment"
+        ],
+        "skills": [
+            "Spark",
+            "Airflow",
+            "Python",
+            "Snowflake",
+            "ETL"
+        ],
+        "benefits": [
+            "Competitive salary and performance bonuses",
+            "Comprehensive health, dental, and vision insurance",
+            "Flexible working hours and remote-friendly culture",
+            "401(k) with company match",
+            "Generous paid time off and parental leave",
+            "Annual learning and development budget"
+        ],
+        "companyOverview": "PipelineWorks is a fast-growing company in the data science space, trusted by hundreds of clients worldwide. We believe in innovation, collaboration, and empowering our people to do the best work of their careers. Our teams are diverse, driven, and passionate about building products and services that make a real difference."
+    },
+    {
+        "id": 23,
+        "title": "Social Media Manager",
+        "company": "ViralReach Agency",
+        "companyLogo": "VA",
+        "location": "Nashville, TN",
+        "salary": "$52,000 - $68,000",
+        "salaryMin": 52000,
+        "salaryMax": 68000,
+        "experience": "1-3 years",
+        "experienceLevel": "Entry Level",
+        "jobType": "Full-time",
+        "category": "Marketing",
+        "postedDate": "2026-07-01",
+        "description": "ViralReach Agency is looking for a talented Social Media Manager to join our growing Marketing team in Nashville, TN. In this role, you will work closely with cross-functional teams to deliver high-quality results, contribute to strategic initiatives, and help shape the future of our products and services. This is an excellent opportunity for a entry level professional with 1-3 years of experience who is passionate about marketing and eager to make an impact.",
+        "responsibilities": [
+            "Own and deliver key projects as a Social Media Manager within the Marketing team",
+            "Collaborate with cross-functional teams including product, design, and engineering",
+            "Apply expertise in Instagram and TikTok to solve complex problems",
+            "Participate in planning, reviews, and continuous improvement processes",
+            "Mentor peers and share knowledge across the organization",
+            "Communicate progress and results clearly to stakeholders"
+        ],
+        "requirements": [
+            "1-3 years of professional experience in a similar role",
+            "Strong proficiency in Instagram, TikTok, Content Creation",
+            "Excellent problem-solving and communication skills",
+            "Bachelor's degree in a relevant field or equivalent practical experience",
+            "Ability to work effectively in a fast-paced, collaborative environment"
+        ],
+        "skills": [
+            "Instagram",
+            "TikTok",
+            "Content Creation",
+            "Analytics",
+            "Community Management"
+        ],
+        "benefits": [
+            "Competitive salary and performance bonuses",
+            "Comprehensive health, dental, and vision insurance",
+            "Flexible working hours and remote-friendly culture",
+            "401(k) with company match",
+            "Generous paid time off and parental leave",
+            "Annual learning and development budget"
+        ],
+        "companyOverview": "ViralReach Agency is a fast-growing company in the marketing space, trusted by hundreds of clients worldwide. We believe in innovation, collaboration, and empowering our people to do the best work of their careers. Our teams are diverse, driven, and passionate about building products and services that make a real difference."
+    },
+    {
+        "id": 24,
+        "title": "Technical Support Engineer",
+        "company": "NetAssist",
+        "companyLogo": "N",
+        "location": "Salt Lake City, UT",
+        "salary": "$58,000 - $75,000",
+        "salaryMin": 58000,
+        "salaryMax": 75000,
+        "experience": "2-4 years",
+        "experienceLevel": "Mid Level",
+        "jobType": "Full-time",
+        "category": "Customer Support",
+        "postedDate": "2026-07-03",
+        "description": "NetAssist is looking for a talented Technical Support Engineer to join our growing Customer Support team in Salt Lake City, UT. In this role, you will work closely with cross-functional teams to deliver high-quality results, contribute to strategic initiatives, and help shape the future of our products and services. This is an excellent opportunity for a mid level professional with 2-4 years of experience who is passionate about customer support and eager to make an impact.",
+        "responsibilities": [
+            "Own and deliver key projects as a Technical Support Engineer within the Customer Support team",
+            "Collaborate with cross-functional teams including product, design, and engineering",
+            "Apply expertise in Troubleshooting and Networking to solve complex problems",
+            "Participate in planning, reviews, and continuous improvement processes",
+            "Mentor peers and share knowledge across the organization",
+            "Communicate progress and results clearly to stakeholders"
+        ],
+        "requirements": [
+            "2-4 years of professional experience in a similar role",
+            "Strong proficiency in Troubleshooting, Networking, Linux",
+            "Excellent problem-solving and communication skills",
+            "Bachelor's degree in a relevant field or equivalent practical experience",
+            "Ability to work effectively in a fast-paced, collaborative environment"
+        ],
+        "skills": [
+            "Troubleshooting",
+            "Networking",
+            "Linux",
+            "Ticketing Systems",
+            "SQL"
+        ],
+        "benefits": [
+            "Competitive salary and performance bonuses",
+            "Comprehensive health, dental, and vision insurance",
+            "Flexible working hours and remote-friendly culture",
+            "401(k) with company match",
+            "Generous paid time off and parental leave",
+            "Annual learning and development budget"
+        ],
+        "companyOverview": "NetAssist is a fast-growing company in the customer support space, trusted by hundreds of clients worldwide. We believe in innovation, collaboration, and empowering our people to do the best work of their careers. Our teams are diverse, driven, and passionate about building products and services that make a real difference."
+    },
+    {
+        "id": 25,
+        "title": "Product Designer",
+        "company": "FlowState Design",
+        "companyLogo": "FD",
+        "location": "Remote",
+        "salary": "$95,000 - $130,000",
+        "salaryMin": 95000,
+        "salaryMax": 130000,
+        "experience": "4-6 years",
+        "experienceLevel": "Senior Level",
+        "jobType": "Remote",
+        "category": "Design",
+        "postedDate": "2026-07-05",
+        "description": "FlowState Design is looking for a talented Product Designer to join our growing Design team in Remote. In this role, you will work closely with cross-functional teams to deliver high-quality results, contribute to strategic initiatives, and help shape the future of our products and services. This is an excellent opportunity for a senior level professional with 4-6 years of experience who is passionate about design and eager to make an impact.",
+        "responsibilities": [
+            "Own and deliver key projects as a Product Designer within the Design team",
+            "Collaborate with cross-functional teams including product, design, and engineering",
+            "Apply expertise in Figma and Design Systems to solve complex problems",
+            "Participate in planning, reviews, and continuous improvement processes",
+            "Mentor peers and share knowledge across the organization",
+            "Communicate progress and results clearly to stakeholders"
+        ],
+        "requirements": [
+            "4-6 years of professional experience in a similar role",
+            "Strong proficiency in Figma, Design Systems, Prototyping",
+            "Excellent problem-solving and communication skills",
+            "Bachelor's degree in a relevant field or equivalent practical experience",
+            "Ability to work effectively in a fast-paced, collaborative environment"
+        ],
+        "skills": [
+            "Figma",
+            "Design Systems",
+            "Prototyping",
+            "Usability Testing",
+            "Interaction Design"
+        ],
+        "benefits": [
+            "Competitive salary and performance bonuses",
+            "Comprehensive health, dental, and vision insurance",
+            "Flexible working hours and remote-friendly culture",
+            "401(k) with company match",
+            "Generous paid time off and parental leave",
+            "Annual learning and development budget"
+        ],
+        "companyOverview": "FlowState Design is a fast-growing company in the design space, trusted by hundreds of clients worldwide. We believe in innovation, collaboration, and empowering our people to do the best work of their careers. Our teams are diverse, driven, and passionate about building products and services that make a real difference."
+    },
+    {
+        "id": 26,
+        "title": "Account Executive",
+        "company": "RevenueRocket",
+        "companyLogo": "R",
+        "location": "Boston, MA",
+        "salary": "$70,000 - $120,000",
+        "salaryMin": 70000,
+        "salaryMax": 120000,
+        "experience": "3-5 years",
+        "experienceLevel": "Mid Level",
+        "jobType": "Full-time",
+        "category": "Sales",
+        "postedDate": "2026-07-04",
+        "description": "RevenueRocket is looking for a talented Account Executive to join our growing Sales team in Boston, MA. In this role, you will work closely with cross-functional teams to deliver high-quality results, contribute to strategic initiatives, and help shape the future of our products and services. This is an excellent opportunity for a mid level professional with 3-5 years of experience who is passionate about sales and eager to make an impact.",
+        "responsibilities": [
+            "Own and deliver key projects as a Account Executive within the Sales team",
+            "Collaborate with cross-functional teams including product, design, and engineering",
+            "Apply expertise in B2B Sales and Salesforce to solve complex problems",
+            "Participate in planning, reviews, and continuous improvement processes",
+            "Mentor peers and share knowledge across the organization",
+            "Communicate progress and results clearly to stakeholders"
+        ],
+        "requirements": [
+            "3-5 years of professional experience in a similar role",
+            "Strong proficiency in B2B Sales, Salesforce, Pipeline Management",
+            "Excellent problem-solving and communication skills",
+            "Bachelor's degree in a relevant field or equivalent practical experience",
+            "Ability to work effectively in a fast-paced, collaborative environment"
+        ],
+        "skills": [
+            "B2B Sales",
+            "Salesforce",
+            "Pipeline Management",
+            "Demos",
+            "Closing"
+        ],
+        "benefits": [
+            "Competitive salary and performance bonuses",
+            "Comprehensive health, dental, and vision insurance",
+            "Flexible working hours and remote-friendly culture",
+            "401(k) with company match",
+            "Generous paid time off and parental leave",
+            "Annual learning and development budget"
+        ],
+        "companyOverview": "RevenueRocket is a fast-growing company in the sales space, trusted by hundreds of clients worldwide. We believe in innovation, collaboration, and empowering our people to do the best work of their careers. Our teams are diverse, driven, and passionate about building products and services that make a real difference."
+    },
+    {
+        "id": 27,
+        "title": "Recruiter (Tech)",
+        "company": "TalentBridge",
+        "companyLogo": "T",
+        "location": "Remote",
+        "salary": "$60,000 - $85,000",
+        "salaryMin": 60000,
+        "salaryMax": 85000,
+        "experience": "2-4 years",
+        "experienceLevel": "Mid Level",
+        "jobType": "Part-time",
+        "category": "Human Resources",
+        "postedDate": "2026-07-02",
+        "description": "TalentBridge is looking for a talented Recruiter (Tech) to join our growing Human Resources team in Remote. In this role, you will work closely with cross-functional teams to deliver high-quality results, contribute to strategic initiatives, and help shape the future of our products and services. This is an excellent opportunity for a mid level professional with 2-4 years of experience who is passionate about human resources and eager to make an impact.",
+        "responsibilities": [
+            "Own and deliver key projects as a Recruiter (Tech) within the Human Resources team",
+            "Collaborate with cross-functional teams including product, design, and engineering",
+            "Apply expertise in Sourcing and LinkedIn Recruiter to solve complex problems",
+            "Participate in planning, reviews, and continuous improvement processes",
+            "Mentor peers and share knowledge across the organization",
+            "Communicate progress and results clearly to stakeholders"
+        ],
+        "requirements": [
+            "2-4 years of professional experience in a similar role",
+            "Strong proficiency in Sourcing, LinkedIn Recruiter, Interviewing",
+            "Excellent problem-solving and communication skills",
+            "Bachelor's degree in a relevant field or equivalent practical experience",
+            "Ability to work effectively in a fast-paced, collaborative environment"
+        ],
+        "skills": [
+            "Sourcing",
+            "LinkedIn Recruiter",
+            "Interviewing",
+            "ATS",
+            "Employer Branding"
+        ],
+        "benefits": [
+            "Competitive salary and performance bonuses",
+            "Comprehensive health, dental, and vision insurance",
+            "Flexible working hours and remote-friendly culture",
+            "401(k) with company match",
+            "Generous paid time off and parental leave",
+            "Annual learning and development budget"
+        ],
+        "companyOverview": "TalentBridge is a fast-growing company in the human resources space, trusted by hundreds of clients worldwide. We believe in innovation, collaboration, and empowering our people to do the best work of their careers. Our teams are diverse, driven, and passionate about building products and services that make a real difference."
+    },
+    {
+        "id": 28,
+        "title": "Site Reliability Engineer",
+        "company": "UptimeOps",
+        "companyLogo": "U",
+        "location": "Seattle, WA",
+        "salary": "$135,000 - $175,000",
+        "salaryMin": 135000,
+        "salaryMax": 175000,
+        "experience": "5+ years",
+        "experienceLevel": "Senior Level",
+        "jobType": "Full-time",
+        "category": "DevOps",
+        "postedDate": "2026-06-30",
+        "description": "UptimeOps is looking for a talented Site Reliability Engineer to join our growing DevOps team in Seattle, WA. In this role, you will work closely with cross-functional teams to deliver high-quality results, contribute to strategic initiatives, and help shape the future of our products and services. This is an excellent opportunity for a senior level professional with 5+ years of experience who is passionate about devops and eager to make an impact.",
+        "responsibilities": [
+            "Own and deliver key projects as a Site Reliability Engineer within the DevOps team",
+            "Collaborate with cross-functional teams including product, design, and engineering",
+            "Apply expertise in Kubernetes and Prometheus to solve complex problems",
+            "Participate in planning, reviews, and continuous improvement processes",
+            "Mentor peers and share knowledge across the organization",
+            "Communicate progress and results clearly to stakeholders"
+        ],
+        "requirements": [
+            "5+ years of professional experience in a similar role",
+            "Strong proficiency in Kubernetes, Prometheus, Go",
+            "Excellent problem-solving and communication skills",
+            "Bachelor's degree in a relevant field or equivalent practical experience",
+            "Ability to work effectively in a fast-paced, collaborative environment"
+        ],
+        "skills": [
+            "Kubernetes",
+            "Prometheus",
+            "Go",
+            "Incident Response",
+            "Terraform"
+        ],
+        "benefits": [
+            "Competitive salary and performance bonuses",
+            "Comprehensive health, dental, and vision insurance",
+            "Flexible working hours and remote-friendly culture",
+            "401(k) with company match",
+            "Generous paid time off and parental leave",
+            "Annual learning and development budget"
+        ],
+        "companyOverview": "UptimeOps is a fast-growing company in the devops space, trusted by hundreds of clients worldwide. We believe in innovation, collaboration, and empowering our people to do the best work of their careers. Our teams are diverse, driven, and passionate about building products and services that make a real difference."
+    },
+    {
+        "id": 29,
+        "title": "Associate Product Manager",
+        "company": "BrightPath Software",
+        "companyLogo": "BS",
+        "location": "Chicago, IL",
+        "salary": "$75,000 - $95,000",
+        "salaryMin": 75000,
+        "salaryMax": 95000,
+        "experience": "1-2 years",
+        "experienceLevel": "Entry Level",
+        "jobType": "Full-time",
+        "category": "Product Management",
+        "postedDate": "2026-07-06",
+        "description": "BrightPath Software is looking for a talented Associate Product Manager to join our growing Product Management team in Chicago, IL. In this role, you will work closely with cross-functional teams to deliver high-quality results, contribute to strategic initiatives, and help shape the future of our products and services. This is an excellent opportunity for a entry level professional with 1-2 years of experience who is passionate about product management and eager to make an impact.",
+        "responsibilities": [
+            "Own and deliver key projects as a Associate Product Manager within the Product Management team",
+            "Collaborate with cross-functional teams including product, design, and engineering",
+            "Apply expertise in Agile and Jira to solve complex problems",
+            "Participate in planning, reviews, and continuous improvement processes",
+            "Mentor peers and share knowledge across the organization",
+            "Communicate progress and results clearly to stakeholders"
+        ],
+        "requirements": [
+            "1-2 years of professional experience in a similar role",
+            "Strong proficiency in Agile, Jira, User Research",
+            "Excellent problem-solving and communication skills",
+            "Bachelor's degree in a relevant field or equivalent practical experience",
+            "Ability to work effectively in a fast-paced, collaborative environment"
+        ],
+        "skills": [
+            "Agile",
+            "Jira",
+            "User Research",
+            "Data Analysis",
+            "Communication"
+        ],
+        "benefits": [
+            "Competitive salary and performance bonuses",
+            "Comprehensive health, dental, and vision insurance",
+            "Flexible working hours and remote-friendly culture",
+            "401(k) with company match",
+            "Generous paid time off and parental leave",
+            "Annual learning and development budget"
+        ],
+        "companyOverview": "BrightPath Software is a fast-growing company in the product management space, trusted by hundreds of clients worldwide. We believe in innovation, collaboration, and empowering our people to do the best work of their careers. Our teams are diverse, driven, and passionate about building products and services that make a real difference."
+    },
+    {
+        "id": 30,
+        "title": "Frontend Developer (Vue.js)",
+        "company": "WebCanvas",
+        "companyLogo": "W",
+        "location": "Remote",
+        "salary": "$85,000 - $110,000",
+        "salaryMin": 85000,
+        "salaryMax": 110000,
+        "experience": "2-4 years",
+        "experienceLevel": "Mid Level",
+        "jobType": "Contract",
+        "category": "Software Development",
+        "postedDate": "2026-07-07",
+        "description": "WebCanvas is looking for a talented Frontend Developer (Vue.js) to join our growing Software Development team in Remote. In this role, you will work closely with cross-functional teams to deliver high-quality results, contribute to strategic initiatives, and help shape the future of our products and services. This is an excellent opportunity for a mid level professional with 2-4 years of experience who is passionate about software development and eager to make an impact.",
+        "responsibilities": [
+            "Own and deliver key projects as a Frontend Developer (Vue.js) within the Software Development team",
+            "Collaborate with cross-functional teams including product, design, and engineering",
+            "Apply expertise in Vue.js and JavaScript to solve complex problems",
+            "Participate in planning, reviews, and continuous improvement processes",
+            "Mentor peers and share knowledge across the organization",
+            "Communicate progress and results clearly to stakeholders"
+        ],
+        "requirements": [
+            "2-4 years of professional experience in a similar role",
+            "Strong proficiency in Vue.js, JavaScript, SASS",
+            "Excellent problem-solving and communication skills",
+            "Bachelor's degree in a relevant field or equivalent practical experience",
+            "Ability to work effectively in a fast-paced, collaborative environment"
+        ],
+        "skills": [
+            "Vue.js",
+            "JavaScript",
+            "SASS",
+            "REST APIs",
+            "Vite"
+        ],
+        "benefits": [
+            "Competitive salary and performance bonuses",
+            "Comprehensive health, dental, and vision insurance",
+            "Flexible working hours and remote-friendly culture",
+            "401(k) with company match",
+            "Generous paid time off and parental leave",
+            "Annual learning and development budget"
+        ],
+        "companyOverview": "WebCanvas is a fast-growing company in the software development space, trusted by hundreds of clients worldwide. We believe in innovation, collaboration, and empowering our people to do the best work of their careers. Our teams are diverse, driven, and passionate about building products and services that make a real difference."
+    },
+    {
+        "id": 31,
+        "title": "Marketing Data Analyst",
+        "company": "MetricMind",
+        "companyLogo": "M",
+        "location": "Austin, TX",
+        "salary": "$72,000 - $94,000",
+        "salaryMin": 72000,
+        "salaryMax": 94000,
+        "experience": "2-4 years",
+        "experienceLevel": "Mid Level",
+        "jobType": "Full-time",
+        "category": "Data Science",
+        "postedDate": "2026-06-29",
+        "description": "MetricMind is looking for a talented Marketing Data Analyst to join our growing Data Science team in Austin, TX. In this role, you will work closely with cross-functional teams to deliver high-quality results, contribute to strategic initiatives, and help shape the future of our products and services. This is an excellent opportunity for a mid level professional with 2-4 years of experience who is passionate about data science and eager to make an impact.",
+        "responsibilities": [
+            "Own and deliver key projects as a Marketing Data Analyst within the Data Science team",
+            "Collaborate with cross-functional teams including product, design, and engineering",
+            "Apply expertise in SQL and Google Analytics to solve complex problems",
+            "Participate in planning, reviews, and continuous improvement processes",
+            "Mentor peers and share knowledge across the organization",
+            "Communicate progress and results clearly to stakeholders"
+        ],
+        "requirements": [
+            "2-4 years of professional experience in a similar role",
+            "Strong proficiency in SQL, Google Analytics, Python",
+            "Excellent problem-solving and communication skills",
+            "Bachelor's degree in a relevant field or equivalent practical experience",
+            "Ability to work effectively in a fast-paced, collaborative environment"
+        ],
+        "skills": [
+            "SQL",
+            "Google Analytics",
+            "Python",
+            "A/B Testing",
+            "Looker"
+        ],
+        "benefits": [
+            "Competitive salary and performance bonuses",
+            "Comprehensive health, dental, and vision insurance",
+            "Flexible working hours and remote-friendly culture",
+            "401(k) with company match",
+            "Generous paid time off and parental leave",
+            "Annual learning and development budget"
+        ],
+        "companyOverview": "MetricMind is a fast-growing company in the data science space, trusted by hundreds of clients worldwide. We believe in innovation, collaboration, and empowering our people to do the best work of their careers. Our teams are diverse, driven, and passionate about building products and services that make a real difference."
+    },
+    {
+        "id": 32,
+        "title": "Internship - Software Engineering",
+        "company": "TechNova Solutions",
+        "companyLogo": "TS",
+        "location": "San Francisco, CA",
+        "salary": "$35,000 - $45,000",
+        "salaryMin": 35000,
+        "salaryMax": 45000,
+        "experience": "0-1 years",
+        "experienceLevel": "Entry Level",
+        "jobType": "Internship",
+        "category": "Software Development",
+        "postedDate": "2026-07-05",
+        "description": "TechNova Solutions is looking for a talented Internship - Software Engineering to join our growing Software Development team in San Francisco, CA. In this role, you will work closely with cross-functional teams to deliver high-quality results, contribute to strategic initiatives, and help shape the future of our products and services. This is an excellent opportunity for a entry level professional with 0-1 years of experience who is passionate about software development and eager to make an impact.",
+        "responsibilities": [
+            "Own and deliver key projects as a Internship - Software Engineering within the Software Development team",
+            "Collaborate with cross-functional teams including product, design, and engineering",
+            "Apply expertise in JavaScript and Python to solve complex problems",
+            "Participate in planning, reviews, and continuous improvement processes",
+            "Mentor peers and share knowledge across the organization",
+            "Communicate progress and results clearly to stakeholders"
+        ],
+        "requirements": [
+            "0-1 years of professional experience in a similar role",
+            "Strong proficiency in JavaScript, Python, Git",
+            "Excellent problem-solving and communication skills",
+            "Bachelor's degree in a relevant field or equivalent practical experience",
+            "Ability to work effectively in a fast-paced, collaborative environment"
+        ],
+        "skills": [
+            "JavaScript",
+            "Python",
+            "Git",
+            "Algorithms",
+            "Teamwork"
+        ],
+        "benefits": [
+            "Competitive salary and performance bonuses",
+            "Comprehensive health, dental, and vision insurance",
+            "Flexible working hours and remote-friendly culture",
+            "401(k) with company match",
+            "Generous paid time off and parental leave",
+            "Annual learning and development budget"
+        ],
+        "companyOverview": "TechNova Solutions is a fast-growing company in the software development space, trusted by hundreds of clients worldwide. We believe in innovation, collaboration, and empowering our people to do the best work of their careers. Our teams are diverse, driven, and passionate about building products and services that make a real difference."
+    }
+]
