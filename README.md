@@ -1,70 +1,333 @@
-# Getting Started with Create React App
+# JobConnect
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern, responsive, and professional **Job Board Web Application** built with **React (Create React App)** and **Bootstrap 5**. JobConnect provides a clean and intuitive platform for job seekers to discover opportunities through advanced search, filtering, sorting, pagination, and detailed job information.
 
-## Available Scripts
+The application is designed using modern frontend development practices with reusable React components, responsive layouts, and an automated deployment workflow.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🚀 Live Demo
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**Vercel:**
+https://jobconnect-green.vercel.app/
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 💻 GitHub Repository
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Repository:**
+https://github.com/SwethaPodhila/jobconnect
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# 📖 Project Overview
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+JobConnect is a frontend-only job board application inspired by modern recruitment platforms such as LinkedIn Jobs and Indeed.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+The project demonstrates how to build a scalable React application using reusable components, React Hooks, Bootstrap 5, and client-side state management without requiring any backend or database.
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# ✨ Features
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🏠 Home Page
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+* Modern hero section
+* Search bar
+* Featured jobs
+* Job categories
+* Why Choose Us section
+* Platform statistics
+* Call-to-action section
+* Responsive footer
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## 💼 Jobs Page
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+* Display all available jobs
+* Responsive Bootstrap cards
+* Company logo
+* Job title
+* Company name
+* Job location
+* Salary information
+* Experience required
+* Job type badge
+* Posted date
+* Apply button
+* View Details button
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+## 📄 Job Details Page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Each job displays:
 
-### Analyzing the Bundle Size
+* Job title
+* Company details
+* Salary
+* Experience
+* Employment type
+* Complete job description
+* Responsibilities
+* Required skills
+* Qualifications
+* Benefits
+* Company overview
+* Apply Now button
+* Back button
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+## ℹ️ About Page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+A professional page describing:
 
-### Advanced Configuration
+* About JobConnect
+* Platform mission
+* Vision
+* Why choose JobConnect
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
+## 📞 Contact Page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Includes:
 
-### `npm run build` fails to minify
+* Contact form
+* Frontend validation
+* Company address
+* Email
+* Phone number
+* Social media icons
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+
+# 🔍 Search
+
+Search jobs by:
+
+* Job Title
+* Company Name
+* Skills
+* Location
+
+---
+
+# 🎯 Filters
+
+Users can filter jobs by:
+
+* Job Type
+* Experience Level
+* Category
+* Location
+* Salary Range
+
+---
+
+# 📊 Sorting
+
+Available sorting options:
+
+* Latest Jobs
+* Salary (High → Low)
+* Salary (Low → High)
+* Company Name (A → Z)
+
+---
+
+# 📑 Pagination
+
+Jobs are displayed using client-side pagination for a clean browsing experience.
+
+---
+
+# ⭐ Additional Features
+
+* Responsive design
+* Bootstrap 5 UI
+* Bootstrap Icons
+* Sticky Navbar
+* Loading Spinner
+* Empty State
+* Scroll To Top button
+* Bookmark Job (Frontend)
+* Share Job (Frontend)
+* Professional badges
+* Hover effects
+* Smooth transitions
+* Mobile-first layout
+
+---
+
+# 🛠️ Technology Stack
+
+## Frontend
+
+* React (Create React App)
+* JavaScript (ES6+)
+* React Router DOM
+* Bootstrap 5
+* Bootstrap Icons
+
+## Development Tools
+
+* Git
+* GitHub
+* GitHub Actions
+* Vercel
+
+---
+
+# 📂 Project Structure
+
+```text
+src/
+├── assets/
+├── components/
+│   ├── Footer
+│   ├── Hero
+│   ├── JobBadge
+│   ├── JobCard
+│   ├── LoadingSpinner
+│   ├── Navbar
+│   ├── Pagination
+│   ├── SearchBar
+│   ├── FilterSidebar
+│   └── EmptyState
+├── data/
+│   └── jobs.json
+├── hooks/
+├── pages/
+│   ├── Home
+│   ├── Jobs
+│   ├── JobDetails
+│   ├── About
+│   └── Contact
+├── styles/
+├── utils/
+├── App.js
+└── index.js
+```
+
+---
+
+# 🚀 Getting Started
+
+## Clone Repository
+
+```bash
+git clone https://github.com/SwethaPodhila/jobconnect.git
+```
+
+## Navigate to Project
+
+```bash
+cd jobconnect
+```
+
+## Install Dependencies
+
+```bash
+npm install
+```
+
+## Run Development Server
+
+```bash
+npm start
+```
+
+The application will run at:
+
+```text
+http://localhost:3000
+```
+
+---
+
+# 📦 Build for Production
+
+```bash
+npm run build
+```
+
+---
+
+# 🔄 CI/CD Pipeline
+
+This project uses **GitHub Actions** for Continuous Integration.
+
+The workflow automatically:
+
+* Installs project dependencies
+* Verifies dependency installation
+* Creates a production build
+* Validates build success
+* Ensures deployment readiness
+
+The project is deployed on **Vercel**, where every successful push to the main branch automatically updates the live application.
+
+---
+
+# 🤖 AI-Assisted Development
+
+Artificial Intelligence was used as a development assistant during the project.
+
+AI assisted with:
+
+* Project planning
+* UI/UX brainstorming
+* Component organization
+* React code suggestions
+* Bootstrap layout recommendations
+* Documentation generation
+* GitHub Actions CI/CD workflow creation
+
+All application logic, customization, debugging, testing, feature implementation, deployment verification, and final review were completed manually to ensure code quality and production readiness.
+
+---
+
+# 📱 Responsive Design
+
+The application is fully responsive across:
+
+* Mobile Devices
+* Tablets
+* Laptops
+* Desktop Screens
+
+Bootstrap's responsive grid system ensures a consistent user experience across different screen sizes.
+
+---
+
+# 📈 Future Enhancements
+
+* User Authentication
+* Employer Dashboard
+* Resume Upload
+* Job Application Tracking
+* AI Job Recommendations
+* Email Notifications
+* Backend Integration
+* REST API
+* Database Support
+* Dark Mode
+
+---
+
+# 👩‍💻 Author
+
+**Swetha Podhila**
+
+Software Engineer | React Developer | Full Stack Developer
+
+GitHub: https://github.com/SwethaPodhila
+
+---
+
+# 📄 License
+
+This project was developed as part of a Software Engineer technical assessment and is intended for educational and evaluation purposes.
